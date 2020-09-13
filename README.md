@@ -7,7 +7,7 @@
 [![piavgh's github stats](https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true)](https://github.com/piavgh)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=hoangtrinhj.com)](https://github.com/piavgh/hoangtrinhj.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MintColab&repo=choice-removal-addon)](https://github.com/MintColab/choice-removal-addon))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MintColab&repo=choice-removal-addon)](https://github.com/MintColab/choice-removal-addon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=openpaas-esn)](https://github.com/linagora/openpaas-esn)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-core)](https://github.com/linagora/linshare-core)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=live-stream-socket-server)](https://github.com/piavgh/live-stream-socket-server)

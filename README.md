@@ -6,6 +6,8 @@
 
 [![piavgh's github stats](https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true)](https://github.com/piavgh)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piavgh&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=hoangtrinhj.com)](https://github.com/piavgh/hoangtrinhj.com)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MintColab&repo=choice-removal-addon)](https://github.com/MintColab/choice-removal-addon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=openpaas-esn)](https://github.com/linagora/openpaas-esn)
@@ -14,8 +16,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomochain&repo=tomox-sdk-ui)](https://github.com/tomochain/tomox-sdk-ui)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=live-stream-socket-server)](https://github.com/piavgh/live-stream-socket-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=live-stream-browser)](https://github.com/piavgh/live-stream-browser)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piavgh&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=nestjs-order-management)](https://github.com/piavgh/nestjs-order-management)
 
 <!--
 **piavgh/piavgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

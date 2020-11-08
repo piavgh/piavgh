@@ -14,8 +14,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomochain&repo=tomochain)](https://github.com/tomochain/tomochain)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomochain&repo=tomox-sdk)](https://github.com/tomochain/tomox-sdk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomochain&repo=tomox-sdk-ui)](https://github.com/tomochain/tomox-sdk-ui)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=live-stream-socket-server)](https://github.com/piavgh/live-stream-socket-server)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=live-stream-browser)](https://github.com/piavgh/live-stream-browser)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=nestjs-order-management)](https://github.com/piavgh/nestjs-order-management)
 
 <!--

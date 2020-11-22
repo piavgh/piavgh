@@ -8,15 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piavgh&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=hoangtrinhj.com)](https://github.com/piavgh/hoangtrinhj.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MintColab&repo=choice-removal-addon)](https://github.com/MintColab/choice-removal-addon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=openpaas-esn)](https://github.com/linagora/openpaas-esn)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomochain&repo=tomochain)](https://github.com/tomochain/tomochain)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomochain&repo=tomox-sdk)](https://github.com/tomochain/tomox-sdk)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomochain&repo=tomox-sdk-ui)](https://github.com/tomochain/tomox-sdk-ui)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=nodejs-clean-architecture)](https://github.com/piavgh/nodejs-clean-architecture)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piavgh&repo=nestjs-order-management)](https://github.com/piavgh/nestjs-order-management)
-
 <!--
 **piavgh/piavgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

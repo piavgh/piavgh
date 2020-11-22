@@ -1,10 +1,10 @@
 # Hi, I'm **Hoang**! 👋
 
-#### I focus on becoming a cloud native engineer and write about modern JavaScript, Node.js, Golang design and web development. ⚡️⚡️⚡️
+#### In short term, I focus on becoming a cloud native engineer and in long term, I will become a solution architect. ⚡️⚡️⚡️
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [hoangtrinhj.com](https://hoangtrinhj.com/ ) as well as on [DEV.to](https://dev.to/piavgh). 🔥 🔥
+Apart from coding, I also maintain a blog about modern JavaScript, Node.js, Golang, design and web development - you can find my articles on my website at [hoangtrinhj.com](https://hoangtrinhj.com/ ) as well as on [DEV.to](https://dev.to/piavgh). 🔥 🔥
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -28,6 +28,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+
+<a href="https://github.com/piavgh/piavgh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piavgh&langs_count=6&layout=compact" />
+</a>
+<a href="https://github.com/piavgh/piavgh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true" alt="Hoang's GitHub Stats" />
+</a>
 
 [![piavgh's github stats](https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true)](https://github.com/piavgh)
 

@@ -36,10 +36,6 @@ Apart from coding, I also maintain a blog about modern JavaScript, Node.js, Gola
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true" alt="Hoang's GitHub Stats" />
 </a>
 
-[![piavgh's github stats](https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true)](https://github.com/piavgh)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piavgh&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **piavgh/piavgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

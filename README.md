@@ -2,11 +2,11 @@
 
 #### In short term, I focus on becoming a cloud native engineer and in long term, I will become a solution architect. ⚡️⚡️⚡️
 
-## &#x270d; Blog & Writing
+### &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog about modern JavaScript, Node.js, Golang, design and web development - you can find my articles on my website at [hoangtrinhj.com](https://hoangtrinhj.com/ ) as well as on [DEV.to](https://dev.to/piavgh). 🔥 🔥
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Webstorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -35,6 +35,18 @@ Apart from coding, I also maintain a blog about modern JavaScript, Node.js, Gola
 <a href="https://github.com/piavgh/piavgh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true" alt="Hoang's GitHub Stats" />
 </a>
+
+### Connect with me:
+
+[<img align="left" alt="hoangtrinhj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="hoangtrinhj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hoangtrinhj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://hoangtrinhj.com
+[twitter]: https://twitter.com/hoangtrinhj
+[linkedin]: https://linkedin.com/in/hoangtrinhj
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=piavgh&label=Profile%20views&color=0e75b6&style=flat" alt="vietanhdev" /> </p>
 
 <!--
 **piavgh/piavgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

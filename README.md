@@ -17,9 +17,6 @@ Apart from coding, I also maintain a blog about modern JavaScript, Node.js, Gola
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/piavgh/piavgh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piavgh&langs_count=6&layout=compact" />
-</a>
-<a href="https://github.com/piavgh/piavgh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true" alt="Hoang's GitHub Stats" />
 </a>
 

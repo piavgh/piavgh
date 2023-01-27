@@ -1,10 +1,10 @@
 # Hi, I'm **Hoang**! 👋
 
-#### In short term, I focus on becoming a cloud native engineer and in long term, I will become a solution architect. ⚡️⚡️⚡️
+#### A DEX aggregator buildoor, independent security researcher, wandering in the dark forest 🤖 🦀
 
 ### &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog about modern JavaScript, Node.js, Golang, design and web development - you can find my articles on my website at [hoangtrinhj.com](https://hoangtrinhj.com/ ) as well as on [DEV.to](https://dev.to/piavgh). 🔥 🔥
+Apart from coding, I also maintain a blog about modern Node.js, Golang, Rust, security and blockchain - you can find my articles on my website at [hoangtrinhj.com](https://hoangtrinhj.com/).🔥🔥
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -28,7 +28,7 @@ Apart from coding, I also maintain a blog about modern JavaScript, Node.js, Gola
 [<img align="left" alt="hoangtrinhj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://hoangtrinhj.com
-[twitter]: https://twitter.com/hoangtrinhj
+[twitter]: https://twitter.com/0xh8h
 [linkedin]: https://linkedin.com/in/hoangtrinhj
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=piavgh&label=Profile%20views&color=0e75b6&style=flat" alt="vietanhdev" /> </p>

@@ -17,10 +17,6 @@ Apart from coding, I also maintain a blog about modern Node.js, Golang, Rust, se
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
-<a href="https://github.com/piavgh/piavgh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piavgh&count_private=true&show_icons=true&show_owner=true" alt="Hoang's GitHub Stats" />
-</a>
-
 ### Connect with me:
 
 [<img align="left" alt="hoangtrinhj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,7 +27,7 @@ Apart from coding, I also maintain a blog about modern Node.js, Golang, Rust, se
 [twitter]: https://twitter.com/0xh8h
 [linkedin]: https://linkedin.com/in/hoangtrinhj
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=piavgh&label=Profile%20views&color=0e75b6&style=flat" alt="vietanhdev" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=piavgh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <!--
 **piavgh/piavgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

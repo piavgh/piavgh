@@ -2,6 +2,8 @@
 
 A DEX aggregator builder, security / distributed system researcher
 
+> If you want to truly understand something, go down the rabbit hole and try to change it.
+
 ### &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog about modern Node.js, Golang, Rust, security, and blockchain - you can find my articles on my website at [hoangtrinhj.com](https://hoangtrinhj.com/).🔥🔥

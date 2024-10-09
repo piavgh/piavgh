@@ -6,7 +6,7 @@ A DEX aggregator builder, security / distributed system researcher
 
 ### &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog about modern Node.js, Golang, Rust, security, and blockchain - you can find my articles on my website at [hoangtrinhj.com](https://hoangtrinhj.com/).🔥🔥
+Apart from coding, I also maintain a blog about Golang, Rust, security, and blockchain - you can find my articles on my website at [hoangtrinh.xyz](https://hoangtrinh.xyz/).🔥🔥
 
 ### Connect with me:
 
